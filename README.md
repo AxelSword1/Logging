@@ -17,7 +17,9 @@ Libreria: logging
 
 Descripción: 
 
- --logging.info(...): Esta línea de código registra un mensaje con nivel de registro INFO utilizando el módulo logging. 
+ --logging.info(...): Esta línea de código registra un mensaje con nivel de registro INFO utilizando el módulo logging.
+
+ --logging.error(...): Esta linea de codigo solo se usa en la division y registra el nivel ERROR por que se divide entre 0
 
  --logging.basicConfig(...): Esta línea configura la configuración de registro para el módulo logging.
 
